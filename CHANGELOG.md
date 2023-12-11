@@ -1,7 +1,12 @@
 # Change Log
 
 All notable changes to the marker locations will be documented in this file.
- 
+
+
+## V1.2 (2023-12-09)
+
+Cross referenced and made adjustments to 180 calculated NSW positions.
+
 ## V1.1 (2023-12-06)
  
 Changes to the Murray River locations, including:
