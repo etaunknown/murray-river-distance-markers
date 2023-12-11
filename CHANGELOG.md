@@ -5,7 +5,8 @@ All notable changes to the marker locations will be documented in this file.
 
 ## V1.2 (2023-12-09)
 
-Cross referenced and made adjustments to 180 calculated NSW positions.
+Cross referenced sources and made adjustments to 180 calculated NSW positions 
+and 18 calculated SA positions.
 
 ## V1.1 (2023-12-06)
  
